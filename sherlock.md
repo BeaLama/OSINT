@@ -38,21 +38,21 @@ source venv/bin/activate
 ### 3. Instalar dependencias
 
 ```bash
-python3 -m pip install -r requirements.txt
+python3 -m pip install .
 ```
 
 ## 3. Uso de comandos
 
 ```bash
-# Búsqueda básica de un usuario (ej: 'johndoe')
-python3 sherlock johndoe
+# Búsqueda básica de un usuario (ej: 'usuario')
+sherlock usuario
 
 # Buscar múltiples usuarios a la vez
-python3 sherlock usuario1 usuario2 usuario3
+sherlock usuario1 usuario2 usuario3
 
 # Buscar y guardar solo los resultados positivos en un archivo .txt
-python3 sherlock usuario --print-found --output resultados.txt
+sherlock usuario --print-found --output resultados.txt
 
 # Buscar limitando el tiempo de espera y solo en redes específicas
-python3 sherlock usuario --timeout 10 --site Instagram --site Twitter
+sherlock usuario --timeout 10 --site Instagram --site Twitter
 ```
