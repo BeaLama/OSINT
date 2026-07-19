@@ -24,7 +24,7 @@ Muestra del rastreo de nombres de usuario en tiempo real:
 
 ### Extracción de Brechas en Intelligence X
 Detección de correos comprometidos en bases de datos filtradas:
-![Filtros IntelX](screenshots/intelx_prueba.png)
+![Filtros IntelX](img/intelx.png)
 
 ### Reporte de Riesgos Generado por la IA
 El resultado final maquetado de forma analítica por la Inteligencia Artificial:
