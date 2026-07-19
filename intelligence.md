@@ -18,7 +18,7 @@ Para realizar consultas automatizadas o mediante scripts, necesitas una clave de
 
 * Crea una cuenta de usuario en el sitio web oficial: [https://intelx.io](https://intelx.io)
 * Dirígete a la sección de configuración de tu perfil de usuario.
-* Localiza el apartado **API Key** y copia tu identificador único.
+* Localiza el apartado **API Key** (en developer )y copia tu identificador único.
 * Nota: Algunas cuentas gratuitas o académicas pueden requerir una verificación o solicitud de activación de la API poniéndose en contacto con su soporte técnico.
 
 ---
