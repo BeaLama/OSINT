@@ -26,10 +26,6 @@ Muestra del rastreo de nombres de usuario en tiempo real:
 Detección de correos comprometidos en bases de datos filtradas:
 ![Filtros IntelX](img/intelx.png)
 
-### Reporte de Riesgos Generado por la IA
-El resultado final maquetado de forma analítica por la Inteligencia Artificial:
-![Reporte de IA](screenshots/informe_ia.png)
-
 ---
 
 ## Despliegue Rápido
