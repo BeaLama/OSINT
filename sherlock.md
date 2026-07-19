@@ -18,7 +18,7 @@ Sigue estos pasos en la terminal integrada de VS Code para descargar el proyecto
 ### Descargar el código original
 * Clona el repositorio oficial de GitHub y accede a la carpeta que se creará de forma automática:
 ```bash
-  git clone [https://github.com/sherlock-project/sherlock.git](https://github.com/sherlock-project/sherlock.git)
+  git clone https://github.com/sherlock-project/sherlock.git
   cd sherlock
 ```
 
