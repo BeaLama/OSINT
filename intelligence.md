@@ -49,7 +49,7 @@ venv\Scripts\Activate.ps1
 ### Instalar librería de API
 
 ```bash
-pip install intelxapi
+pip install intelx
 ```
 
 ## Creación de script de búsqueda estándar
