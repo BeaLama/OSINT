@@ -92,5 +92,5 @@ except Exception as e:
 ## Ejecución del script
 
 ```bash
-python3 buscar.py
+python3 busqueda.py
 ```
