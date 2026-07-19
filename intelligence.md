@@ -57,7 +57,7 @@ pip install intelx
 ```bash
 #Crear archivo llamado busqueda.py
 import time
-from intelx import intelx
+from intelxapi import intelx
 
 # Configura tus credenciales y el objetivo
 API_KEY = "TU_API_KEY_AQUI"
