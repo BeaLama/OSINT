@@ -20,10 +20,12 @@ El script realiza la recolección de datos en bruto de manera automatizada y uti
 
 ### Ejecución del Escáner Sherlock
 Muestra del rastreo de nombres de usuario en tiempo real:
+
 ![Rastreo de Sherlock](img/sherlock.png.png)
 
 ### Extracción de Brechas en Intelligence X
 Detección de correos comprometidos en bases de datos filtradas:
+
 ![Filtros IntelX](img/intelx.png)
 
 ---
